@@ -1,0 +1,10 @@
+
+C
+java:S1172"&Remove these unused method parameters.(Š¶¹É8Ä™ÖŞÓ.
+C
+java:S1481"-Remove this unused "solution" local variable.(€›Ëã
+C
+java:S1168"&Return an empty array instead of null.(¥¹ï8Ä™ÖŞÓ.
+7
+java:S2694"!Make this a "static" inner class.(¬ÙÅŠ
+p	java:S109"TAssign this magic number 123 to a well-named constant, and use the constant instead.(ûê€8²—ÜŞÓ.
